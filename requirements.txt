@@ -1,0 +1,22 @@
+# Core Scientific Stack
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+
+# Streamlit Web Application
+streamlit
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyterlab
+notebook
+
+# Configuration and Dependency Management
+pyyaml
