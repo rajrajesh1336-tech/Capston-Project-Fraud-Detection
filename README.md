@@ -48,6 +48,7 @@ fraud_detection_analysis/
 - 🤖 Scikit-learn, 🌳XGBoost : Machine Learning
 - 📦 Joblib : Model Saving & Loading
 - 🚀 Streamlit : Deployment
+- 💻 VS Code, 🛠️ Virtual Environment (.venv) : Development Environment
 ---
 ## 🧠**Machine Learning Workflow**
 ---
